@@ -1,0 +1,114 @@
+site_name: Democrobot AI Docs
+site_url: https://docs.democrobot.ai
+theme:
+  palette:
+    primary: blue grey
+    accent: light green
+  name: material
+  icon:
+    logo: material/robot-happy
+  features:
+    - content.code.copy
+    - navigation.tabs
+    - navigation.tabs.sticky
+    - navigation.expand
+    - navigation.footer
+    - navigation.indexes
+    - navigation.prune
+    - navigation.sections
+    - navigation.top
+    - toc.follow
+    - toc.integrate
+    - search.suggest
+    - search.highlight
+    - search.share
+
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/democrobot
+      name: Democrobot on GitHub
+    - icon: fontawesome/brands/linkedin
+      link: https://www.linkedin.com/company/democrobot
+      name: Democrobot on LinkedIn
+    - icon: fontawesome/brands/x-twitter
+      link: https://www.x.com/democrobotnet
+      name: Democrobot on X (Twitter)
+    - icon: fontawesome/brands/instagram
+      link: https://www.instagram.com/democrobot
+      name: Democrobot on Instagram
+    - icon: fontawesome/brands/threads
+      link: https://www.threads.net/@democrobot
+      name: Democrobot on Threads
+    - icon: fontawesome/brands/bluesky
+      link: https://bsky.app/profile/democrobot.bsky.social
+      name: Democrobot on Bluesky
+  consent:
+    title: Cookie consent
+    description: >- 
+
+      We use cookies to recognize your repeated visits and preferences, as well
+      as to measure the effectiveness of our documentation and whether users
+      find what they're searching for. With your consent, you're helping us to
+      make our documentation better.
+
+markdown_extensions:
+  - admonition
+  - attr_list
+  - md_in_html
+  - pymdownx.blocks.caption
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+plugins:
+  - search
+  - blog:
+      post_url_format: "{slug}"
+  - tags
+nav:
+    - Home: index.md
+    - About: about.md
+    - DemocraCRM:
+      - democracrm/index.md
+      - Installation:
+        - Installation Overview: democracrm/installation/installation_overview.md
+        - Debian Linux: democracrm/installation/debian_linux.md
+        - PostgreSQL Database: democracrm/installation/postgresql_database.md
+        - DemocraCRM Application: democracrm/installation/democracrm_app.md
+        - Gunicorn: democracrm/installation/gunicorn.md
+        - NGINX Web Server: democracrm/installation/nginx_web_server.md
+      - Configuration: democracrm/configuration.md
+      - Upgrading: democracrm/upgrading.md
+      - Getting Started:
+        - User Account: democracrm/getting-started/user_account.md
+        - Organization Account: democracrm/getting-started/organization_account.md
+        - Platform & Campaigns: democracrm/getting-started/platform-campaigns.md
+        - People & Places: democracrm/getting-started/people-places.md
+      - Features:
+        - Overview: democracrm/features/index.md
+        - Accounts: democracrm/features/accounts.md
+        - Contacts: democracrm/features/contacts.md
+        - Places: democracrm/features/places.md
+        - Organizing: democracrm/features/organizing.md
+        - Lobbying: democracrm/features/lobbying.md
+        - Social: democracrm/features/social.md
+        - Web: democracrm/features/web.md
+      - Data Models:
+        - Accounts:
+          - User Account: democracrm/models/accounts/user_account.md
+          - Organization Account: democracrm/models/accounts/organization_account.md
+        - Core:
+          - Geographic Boundaries: democracrm/models/core/geographic_boundaries.md
+        - Organizing:
+          - democracrm/models/organizing/campaign.md
+      - Development:
+        - Data: democracrm/development/data.md
+        - URL Scheme: democracrm/development/url_scheme.md
+        - Documentation: democracrm/development/documentation.md
+      - Release Notes
+      - Glossary: democracrm/glossary.md
+      - License: democracrm/license.md
+    - Legiscrapers:
+      - legiscrapers/index.md
+    - Lawgorithms:
+      - lawgorithms/index.md
