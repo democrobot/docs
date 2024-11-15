@@ -2,150 +2,150 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
          <loc>https://docs.democrobot.ai/</loc>
-         <lastmod>2024-11-14</lastmod>
+         <lastmod>2024-11-15</lastmod>
     </url>
     <url>
          <loc>https://docs.democrobot.ai/blog/</loc>
-         <lastmod>2024-11-14</lastmod>
+         <lastmod>2024-11-15</lastmod>
     </url>
     <url>
          <loc>https://docs.democrobot.ai/democracrm/</loc>
-         <lastmod>2024-11-14</lastmod>
+         <lastmod>2024-11-15</lastmod>
     </url>
     <url>
          <loc>https://docs.democrobot.ai/democracrm/configuration/</loc>
-         <lastmod>2024-11-14</lastmod>
+         <lastmod>2024-11-15</lastmod>
     </url>
     <url>
          <loc>https://docs.democrobot.ai/democracrm/glossary/</loc>
-         <lastmod>2024-11-14</lastmod>
+         <lastmod>2024-11-15</lastmod>
     </url>
     <url>
          <loc>https://docs.democrobot.ai/democracrm/license/</loc>
-         <lastmod>2024-11-14</lastmod>
+         <lastmod>2024-11-15</lastmod>
     </url>
     <url>
          <loc>https://docs.democrobot.ai/democracrm/upgrading/</loc>
-         <lastmod>2024-11-14</lastmod>
+         <lastmod>2024-11-15</lastmod>
     </url>
     <url>
          <loc>https://docs.democrobot.ai/democracrm/development/data/</loc>
-         <lastmod>2024-11-14</lastmod>
+         <lastmod>2024-11-15</lastmod>
     </url>
     <url>
          <loc>https://docs.democrobot.ai/democracrm/development/documentation/</loc>
-         <lastmod>2024-11-14</lastmod>
+         <lastmod>2024-11-15</lastmod>
     </url>
     <url>
          <loc>https://docs.democrobot.ai/democracrm/development/environment/</loc>
-         <lastmod>2024-11-14</lastmod>
+         <lastmod>2024-11-15</lastmod>
     </url>
     <url>
          <loc>https://docs.democrobot.ai/democracrm/development/permissions/</loc>
-         <lastmod>2024-11-14</lastmod>
+         <lastmod>2024-11-15</lastmod>
     </url>
     <url>
          <loc>https://docs.democrobot.ai/democracrm/development/slugs/</loc>
-         <lastmod>2024-11-14</lastmod>
+         <lastmod>2024-11-15</lastmod>
     </url>
     <url>
          <loc>https://docs.democrobot.ai/democracrm/development/url_scheme/</loc>
-         <lastmod>2024-11-14</lastmod>
+         <lastmod>2024-11-15</lastmod>
     </url>
     <url>
          <loc>https://docs.democrobot.ai/democracrm/development/adrs/template/</loc>
-         <lastmod>2024-11-14</lastmod>
+         <lastmod>2024-11-15</lastmod>
     </url>
     <url>
          <loc>https://docs.democrobot.ai/democracrm/features/</loc>
-         <lastmod>2024-11-14</lastmod>
+         <lastmod>2024-11-15</lastmod>
     </url>
     <url>
          <loc>https://docs.democrobot.ai/democracrm/features/accounts/</loc>
-         <lastmod>2024-11-14</lastmod>
+         <lastmod>2024-11-15</lastmod>
     </url>
     <url>
          <loc>https://docs.democrobot.ai/democracrm/features/contacts/</loc>
-         <lastmod>2024-11-14</lastmod>
+         <lastmod>2024-11-15</lastmod>
     </url>
     <url>
          <loc>https://docs.democrobot.ai/democracrm/features/fundraising/</loc>
-         <lastmod>2024-11-14</lastmod>
+         <lastmod>2024-11-15</lastmod>
     </url>
     <url>
          <loc>https://docs.democrobot.ai/democracrm/features/lobbying/</loc>
-         <lastmod>2024-11-14</lastmod>
+         <lastmod>2024-11-15</lastmod>
     </url>
     <url>
          <loc>https://docs.democrobot.ai/democracrm/features/organizing/</loc>
-         <lastmod>2024-11-14</lastmod>
+         <lastmod>2024-11-15</lastmod>
     </url>
     <url>
          <loc>https://docs.democrobot.ai/democracrm/features/places/</loc>
-         <lastmod>2024-11-14</lastmod>
+         <lastmod>2024-11-15</lastmod>
     </url>
     <url>
          <loc>https://docs.democrobot.ai/democracrm/features/social/</loc>
-         <lastmod>2024-11-14</lastmod>
+         <lastmod>2024-11-15</lastmod>
     </url>
     <url>
          <loc>https://docs.democrobot.ai/democracrm/features/web/</loc>
-         <lastmod>2024-11-14</lastmod>
+         <lastmod>2024-11-15</lastmod>
     </url>
     <url>
          <loc>https://docs.democrobot.ai/democracrm/installation/debian_linux/</loc>
-         <lastmod>2024-11-14</lastmod>
+         <lastmod>2024-11-15</lastmod>
     </url>
     <url>
          <loc>https://docs.democrobot.ai/democracrm/installation/democracrm_app/</loc>
-         <lastmod>2024-11-14</lastmod>
+         <lastmod>2024-11-15</lastmod>
     </url>
     <url>
          <loc>https://docs.democrobot.ai/democracrm/installation/gunicorn/</loc>
-         <lastmod>2024-11-14</lastmod>
+         <lastmod>2024-11-15</lastmod>
     </url>
     <url>
          <loc>https://docs.democrobot.ai/democracrm/installation/installation_overview/</loc>
-         <lastmod>2024-11-14</lastmod>
+         <lastmod>2024-11-15</lastmod>
     </url>
     <url>
          <loc>https://docs.democrobot.ai/democracrm/installation/nginx_web_server/</loc>
-         <lastmod>2024-11-14</lastmod>
+         <lastmod>2024-11-15</lastmod>
     </url>
     <url>
          <loc>https://docs.democrobot.ai/democracrm/installation/postgresql_database/</loc>
-         <lastmod>2024-11-14</lastmod>
+         <lastmod>2024-11-15</lastmod>
     </url>
     <url>
          <loc>https://docs.democrobot.ai/democracrm/installation/ubuntu_linux/</loc>
-         <lastmod>2024-11-14</lastmod>
+         <lastmod>2024-11-15</lastmod>
     </url>
     <url>
          <loc>https://docs.democrobot.ai/democracrm/models/accounts/organization_account/</loc>
-         <lastmod>2024-11-14</lastmod>
+         <lastmod>2024-11-15</lastmod>
     </url>
     <url>
          <loc>https://docs.democrobot.ai/democracrm/models/accounts/user_account/</loc>
-         <lastmod>2024-11-14</lastmod>
+         <lastmod>2024-11-15</lastmod>
     </url>
     <url>
          <loc>https://docs.democrobot.ai/democracrm/models/data/datasource/</loc>
-         <lastmod>2024-11-14</lastmod>
+         <lastmod>2024-11-15</lastmod>
     </url>
     <url>
          <loc>https://docs.democrobot.ai/democracrm/models/lobbying/publicoffice/</loc>
-         <lastmod>2024-11-14</lastmod>
+         <lastmod>2024-11-15</lastmod>
     </url>
     <url>
          <loc>https://docs.democrobot.ai/democracrm/models/organizing/campaign/</loc>
-         <lastmod>2024-11-14</lastmod>
+         <lastmod>2024-11-15</lastmod>
     </url>
     <url>
          <loc>https://docs.democrobot.ai/lawgorithms/</loc>
-         <lastmod>2024-11-14</lastmod>
+         <lastmod>2024-11-15</lastmod>
     </url>
     <url>
          <loc>https://docs.democrobot.ai/legiscrapers/</loc>
-         <lastmod>2024-11-14</lastmod>
+         <lastmod>2024-11-15</lastmod>
     </url>
 </urlset>
